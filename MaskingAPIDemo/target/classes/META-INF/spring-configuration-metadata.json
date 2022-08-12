@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "masking",
+      "type": "com.example.MaskingAPIDemo.contoller.MaskingAPIController",
+      "sourceType": "com.example.MaskingAPIDemo.contoller.MaskingAPIController"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
